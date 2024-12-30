@@ -9,6 +9,7 @@ This repo contains a list of virtual machines and tools that execute the WebAsse
 ## CONTENTS
 
 - [aWsm](#awsm) <sup><sup>:rocket:</sup></sup></br>
+- [Chasm](#chasm) <sup><sup>:rocket:</sup></sup></br>
 - [Chicory](#chicory) <sup><sup>:rocket:</sup></sup></br>
 - [CMM of Wasm](#cmm) <sup><sup>:sleeping:</sup></sup></br>
 - [EOSVM](#eosvm) <sup><sup>:rocket:</sup></sup></br>
@@ -108,6 +109,73 @@ This repo contains a list of virtual machines and tools that execute the WebAsse
     <tr>
         <td>Linux</td>
         <td>macOS</td>
+    </tr>
+    </table>
+
+## <a name="chasm"></a>[Chasm](https://github.com/charlietap/chasm) <sup>[top⇈](#contents)</sup>
+
+> Chasm is a Kotlin Multiplatform WebAssembly runtime. It allows you to run WebAssembly programs on all Kotlin Multiplatform targets.
+
+* **Languages written in**
+
+    <table>
+    <tr>
+        <td>Kotlin</td>
+    </tr>
+    </table>
+
+* **Compiler framework**
+
+    <table>
+    <tr>
+        <td>Kotlin Multiplatform</td>
+    </tr>
+    </table>
+
+
+* **Compilation / Execution modes**
+
+    <table>
+    <tr>
+        <td>Interpreter</td>
+    </tr>
+    </table>
+
+* **Interoperability with other languages**
+
+    - `Java`
+
+* **Non-MVP features supported**
+
+    - `Exception Handling`
+    - `Extended Const Expression`
+    - `GC`
+    - `Multiple Memories`
+    - `Tail Call`
+    - `Typed Function References`
+
+* **Host APIs supported**
+
+    - `N/A`
+
+* **Non-web standards**
+
+    - `N/A`
+
+* **Used by**
+
+    - `N/A`
+
+* **Platforms supported**
+
+    <table>
+    <tr>
+        <td>Android</td>
+        <td>JVM</td>
+        <td>IOS</td>
+        <td>Linux</td>
+        <td>Macos</td>
+        <td>Windows</td>
     </tr>
     </table>
 
