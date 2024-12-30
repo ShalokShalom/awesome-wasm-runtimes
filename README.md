@@ -39,7 +39,6 @@ This repo contains a list of virtual machines and tools that execute the WebAsse
 - [WasmRT](#wasmrt) <sup><sup>:sleeping:</sup></sup></br>
 - [Wasmtime](#wasmtime) <sup><sup>:rocket:</sup></sup></br>
 - [WasmVM](#wasmvm1) <sup><sup>:rocket:</sup></sup></br>
-- [WasmVM](#wasmvm2) <sup><sup>:sleeping:</sup></sup></br>
 - [WAVM](#wavm) <sup><sup>:sleeping:</sup></sup></br>
 - [WebAssembly](#webassembly) <sup><sup>:sleeping:</sup></sup></br>
 - [WebAssembly Micro Runtime](#wamr) <sup><sup>:rocket:</sup></sup></br>
