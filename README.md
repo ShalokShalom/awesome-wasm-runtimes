@@ -1962,27 +1962,15 @@ Happy New Moon with Report is an open-source implementation of WebAssembly writt
 
 * **Host APIs supported**
 
-    - WASI
+    - `WASI`
 
 * **Non-web standards**
 
-    - `N/A`
+    - `WASI`
 
 * **Used by**
 
     - `N/A`
-
-* **Platforms supported**
-
-    <table>
-    <tr>
-        <td>Linux</td>
-        <td>macOS</td>
-        <td>Windows</td>
-    </tr>
-    </table>
-
-    - [Wasmi](https://github.com/paritytech/wasmi): an efficient WebAssembly interpreter that is used by [Substrate](https://github.com/paritytech/substrate), a next-generation framework for blockchain innovation.
 
 * **Platforms supported**
 
